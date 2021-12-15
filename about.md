@@ -5,6 +5,8 @@ permalink: /about/
 main_nav: true
 ---
 
+![alt text]({{ site.baseurl }}/assets/profile-placeholder.gif "Profile Picture"){:.profile}
+
 국민대학교 소프트웨어학부 소프트웨어전공 17학번 김경환입니다.
 
 현재 3학년 입니다.
