@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 comments: true
 title:  "Welcome to Jekyll!"
 date:   2015-04-20 08:43:59
