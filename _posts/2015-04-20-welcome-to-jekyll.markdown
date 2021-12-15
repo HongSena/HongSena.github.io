@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Markdown post!"
 date:   2015-04-20 08:43:59
-author: Ben Centra
+author: 김경환
 categories: Jekyll
-tags:	jekyll welcome
+tags:	Markdown
 cover:  "/assets/instacode.png"
 comments: true
 ---
