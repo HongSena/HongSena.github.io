@@ -6,6 +6,7 @@ author: Ben Centra
 categories: Jekyll
 tags:	jekyll welcome
 cover:  "/assets/instacode.png"
+comments: true
 ---
 
 
