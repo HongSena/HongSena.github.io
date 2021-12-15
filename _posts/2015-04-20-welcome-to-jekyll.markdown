@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "마크다운에 관한 글"
-date:   2021-12-15 08:43:59
-author: 김경환
+title:  "Welcome to Jekyll!"
+date:   2015-04-20 08:43:59
+author: Ben Centra
 categories: Jekyll
-tags:	Markdown
+tags:	jekyll welcome
 cover:  "/assets/instacode.png"
 comments: true
 ---
