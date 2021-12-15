@@ -146,7 +146,7 @@ layout: default
 <script>
     let PAGE_URL = "{{site.url}}{{page.url}}"
     let PAGE_IDENTIFIER = "{{page.url}}"
-    var disqus_config = function(){
+    var disqus_config = function () {
       this.page.url = PAGE_URL;
       this.page.identifier = PAGE_IDENTIFIER;
     };
@@ -155,7 +155,7 @@ layout: default
         var d = document, s = d.createElement('script');
         
         // IMPORTANT: Replace EXAMPLE with your forum shortname!
-        s.src = 'https://hongsena.disqus.com/embed.js';
+        s.src = 'https://red0sena.disqus.com/embed.js';
         
         s.setAttribute('data-timestamp', +new Date());
         (d.head || d.body).appendChild(s);
@@ -163,7 +163,7 @@ layout: default
 </script>
 <noscript>
     Please enable JavaScript to view the 
-    <a href="https://disqus.com/?ref_noscript" rel="nofollow">
+    <a href="https://disqus.com/?ref_noscript">
         comments powered by Disqus.
     </a>
 </noscript>
