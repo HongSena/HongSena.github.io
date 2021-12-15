@@ -8,13 +8,9 @@ tags:	jekyll welcome
 cover:  "/assets/instacode.png"
 ---
 
-<center>
 
 # Markdown
 쉽고 멋지게 글쓰기
-
-</center>
-If you list one or more categories or tags in the front matter of your post, they will be included with the post on the page as links. Clicking the link will bring you to an auto-generated archive page for the category or tag, created using the [jekyll-archive][jekyll-archive] gem.
 
 ### 마크다운이란 무엇일까요?
 
@@ -22,25 +18,54 @@ If you list one or more categories or tags in the front matter of your post, the
 
 ### Markdown문법
 
-1. Header
-
-...
-
+1.Header
 #Header1
 ##Header2
 ###Header3
-
-...
 # Header1
 ## Header2
 ### Header3
-
 #,##,###, 등으로 으로 제목(header)작성
 
-2. Italic
-...
-*Italic*
-_Italic_ 
-...
+
+
+2.Italic
+*Italic *
+_  Italic  _ 
 **,__으로 기울임체(italic)작성
+
+3.Bold
+** Bold **
+__ Bold __ 
+****,____으로 강조체(*Bold*)작성
+
+4.Strikethrough
+
+~ Strikethrough ~
+~~으로 취소선(~Strikethrough~) 작성
+
+
+5.Unordered List
+-Unordered List
+*Unordered List
+-,*로 순서없는 리스트(unordered list) 완성
+
+6.Ordered List
+
+... Ordered List
+
+...으로 순서 리스트(ordered list)작성
+
+7.Code
+` print("hi")`
+
+`` 으로 코드(code)작성
+
+8.Code Block
+```
+def power(x: int):
+return x ** 2
+```
+
+`6개로 코드 블록(code block) 작성
 
