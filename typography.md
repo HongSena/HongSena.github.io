@@ -5,11 +5,11 @@ permalink: /typography/
 main_nav: true
 ---
 
-<p>The purpose of this HTML is to help determine what default settings are with Bitters and to make sure that all possible HTML Elements are included in this HTML so as to not miss any possible Elements when designing a site.</p>
+<p>이 HTML의 목적은 Bitters의 기본 설정이 무엇인지 확인하고 사이트를 설계할 때 가능한 모든 HTML 요소가 이 HTML에 포함되도록 하는 것이다.</p>
 
 <hr>
 
-<h1 id="headings">Headings</h1>
+<h1 id="headings">헤더</h1>
 
 <h1>h1. Heading</h1>
 <h2>h2. Heading</h2>
@@ -22,15 +22,15 @@ main_nav: true
 
 <h1 id="paragraph">Paragraph</h1>
 
-<p>Lorem ipsum dolor sit amet, <a href="#" title="test link">test link</a> adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.</p>
+<p>애국가를 불러보겠습니다.<a href="#" title="test link">애 국 가</a> 동해물과 백두산이 마르고 닳도록 하느님이 보우하사 우리나랗 만세 무궁화 삼천리 화려강산 대한사람 대한으로 길이 보전하세</p>
 
-<p>Lorem ipsum dolor sit amet, <em>emphasis</em> consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus. Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.</p>
+<p>다음줄에는  <em>em 태그</em> 마크다운 언어는 재미 있습니다!</p>
 
 <hr>
 
 <h1 id="list_types">List Types</h1>
 
-<p>Lists are unstyled by defualt. To restore the original styling, add the <code>.default</code> class</p>
+<p>리스트는 기본적으로 스타일이 지정되지 않는다, 스타일을 지정하려면 다음을 추가하자 <code>.default</code> class</p>
 
 <h3>Definition List</h3>
 <dl>
@@ -67,7 +67,7 @@ main_nav: true
 </ul>
 
 
-<h1 id="tables">Tables</h1>
+<h1 id="tables">표</h1>
 
 <table cellspacing="0" cellpadding="0">
   <tr>
